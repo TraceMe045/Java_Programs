@@ -26,7 +26,7 @@ class SmartPhone extends cellPhone implements GPU, Camera, Player{
     }
 
 }
-public class Interfaces_Prblm {
+public class Inheritance_in_Interfaces {
     public static void main(String[] args) {
         SmartPhone sp = new SmartPhone();
         sp.Call();
